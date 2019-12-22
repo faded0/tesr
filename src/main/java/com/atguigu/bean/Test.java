@@ -7,7 +7,7 @@ public class Test {
      public void test() {
     	 System.out.println("这是更新方法");
      }
-     public void test2() {
-    	 System.out.println("这是更新方法");
-     }
+    public String test3(){
+     return "这个测试三";
+    }
 }
